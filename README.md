@@ -1,6 +1,6 @@
 # Ray Vision
-Repo for an academic project website page<br>
-This project is conducted as part of the OCE 210 Intelligent Ocean Exploration in the spring of 2024, guided by Professor Jian Lin, who is a Member of the European Academy of Sciences.
+Repo for an academic project website page<br><br>
+This project is conducted as part of the OCE 210 Intelligent Ocean Exploration in the spring of 2024, guided by Professor [Jian Lin](https://www.sustech.edu.cn/zh/faculties/linjian.html), who is a Member of the European Academy of Sciences.
 ![](img/Screenshot.png)
 ## Components
 - Teaser video
